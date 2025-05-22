@@ -39,7 +39,7 @@ API dependencies became a fundamental learning point during this project. Whenev
 
 ## Requirements:-
 
-speechrecognition>=3.8.1
+- speechrecognition>=3.8.1
 
 
 
@@ -78,17 +78,19 @@ print(transcribe_audio("your_audio.wav"))
 
 ## Notes:-
 
--Audio Requirements: WAV files, 16kHz sample rate for best results.
+- Audio Requirements: WAV files, 16kHz sample rate for best results.
 
 
 
--Internet: Requires connectivity for Google Speech Recognition API.
+- Internet: Requires connectivity for Google Speech Recognition API.
 
 
 
--Future Plans: Support more formats, add live microphone input.
+- Future Plans: Support more formats, add live microphone input.
 
 
 ## OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/7cc41d55-f0b3-466b-bc94-13cb995c59a6)
 
 

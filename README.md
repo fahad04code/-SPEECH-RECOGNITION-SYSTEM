@@ -48,21 +48,19 @@ API dependencies became a fundamental learning point during this project. Whenev
 
 
 
-Install Dependencies: Install the required library using requirements.txt:
+1. Install Dependencies: Install the required library using requirements.txt:
 
 ```
 pip install -r requirements.txt
 ```
 
 
-Prepare Audio: Ensure your audio file is in WAV format, sampled at 16kHz (e.g., converted_audio_16k.wav). Use tools like Audacity to convert if needed.
+2. Prepare Audio: Ensure your audio file is in WAV format, sampled at 16kHz (e.g., converted_audio_16k.wav). Use tools like Audacity to convert if needed.
 
 
-Clone and Run:
+3. Run:
 
 ```
-git clone https://github.com/your-username/speech-to-text-transcriber.git
-cd speech-to-text-transcriber
 python transcribe_audio.py
 
 ```
